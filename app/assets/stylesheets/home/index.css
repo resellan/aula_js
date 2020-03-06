@@ -1,0 +1,37 @@
+.buttons {
+  display: flex;
+}
+
+.title {
+  transition-duration: 400ms;
+}
+
+.btn_title {
+  width: 130px;
+  height: 50px;
+  border: solid 1px #000;
+  cursor: pointer;
+  text-align: center;
+  font-size: 25px;
+}
+
+.btn_size {
+  width: 130px;
+  height: 50px;
+  border: solid 1px #000;
+  cursor: pointer;
+  text-align: center;
+  font-size: 25px;
+}
+
+.red_title {
+  color: #f00;
+}
+
+.green_title {
+  color: #0f0;
+}
+
+.blue_title {
+  color: #00f;
+}
